@@ -15,7 +15,8 @@
     </properties>
     <modules>
         <module>provider</module>
-        <module></module>
+        <module>consumer</module>
+        <module>api</module>
     </modules>
 
     <dependencyManagement>
