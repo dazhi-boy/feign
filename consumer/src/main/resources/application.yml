@@ -1,0 +1,10 @@
+server:
+  port: 58080
+
+spring:
+  application:
+    name: consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
